@@ -1,0 +1,6 @@
+DROP TABLE transactions;
+DROP TABLE accounts;
+DROP TABLE customers;
+DROP TABLE areas;
+DROP TABLE branches;
+DROP TABLE banks;

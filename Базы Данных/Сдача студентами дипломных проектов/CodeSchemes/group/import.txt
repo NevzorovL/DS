@@ -1,0 +1,6 @@
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/commission.sql
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/mentors.sql
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/groups.sql
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/students.sql
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/projects.sql
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/marks.sql

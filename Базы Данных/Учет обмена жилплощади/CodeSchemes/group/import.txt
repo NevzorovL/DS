@@ -1,0 +1,6 @@
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/customers.sql
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/residents.sql
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/exchanges.sql
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/types.sql
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/districts.sql
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/balance.sql

@@ -1,0 +1,5 @@
+Для создания таблиц:
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/group/import.txt
+
+Для удаления таблиц:
+\i C:/Users/nevzorov/Desktop/Utkin/CodeSchemes/group/drop.txt

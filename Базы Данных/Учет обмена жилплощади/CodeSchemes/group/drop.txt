@@ -1,0 +1,6 @@
+DROP TABLE districts;
+DROP TABLE types;
+DROP TABLE exchanges;
+DROP TABLE residents;
+DROP TABLE balance;
+DROP TABLE customers;

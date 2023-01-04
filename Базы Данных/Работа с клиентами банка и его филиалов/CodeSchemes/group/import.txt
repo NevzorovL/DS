@@ -1,0 +1,6 @@
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/banks.sql
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/branches.sql
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/areas.sql
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/customers.sql
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/accounts.sql
+\i C:/Users/nevzorov/Desktop/Nevzorov/CodeSchemes/transactions.sql

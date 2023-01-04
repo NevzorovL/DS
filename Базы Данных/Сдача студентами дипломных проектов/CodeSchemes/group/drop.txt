@@ -1,0 +1,6 @@
+DROP TABLE marks;
+DROP TABLE projects;
+DROP TABLE students;
+DROP TABLE groups;
+DROP TABLE mentors;
+DROP TABLE commission;

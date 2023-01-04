@@ -1,0 +1,6 @@
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/producers.sql
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/genres.sql
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/films.sql
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/actors.sql
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/theaters.sql
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/incomes.sql

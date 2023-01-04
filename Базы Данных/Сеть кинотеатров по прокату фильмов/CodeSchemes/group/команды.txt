@@ -1,0 +1,5 @@
+Для создания таблиц:
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/group/import.txt
+
+Для удаления таблиц:
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/group/drop.txt

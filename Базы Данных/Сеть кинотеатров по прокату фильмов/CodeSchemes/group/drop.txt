@@ -1,0 +1,6 @@
+DROP TABLE incomes;
+DROP TABLE theaters;
+DROP TABLE actors;
+DROP TABLE films;
+DROP TABLE genres;
+DROP TABLE producers;

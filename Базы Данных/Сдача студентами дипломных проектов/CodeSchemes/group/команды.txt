@@ -1,0 +1,5 @@
+Для создания таблиц:
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/group/import.txt
+
+Для удаления таблиц:
+\i C:/Users/nevzorov/Desktop/Habibullin/Database/CodeSchemes/group/drop.txt

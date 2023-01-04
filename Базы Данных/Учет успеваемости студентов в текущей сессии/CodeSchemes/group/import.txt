@@ -1,0 +1,6 @@
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/faculties.sql
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/groups.sql
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/students.sql
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/teachers.sql
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/disciplines.sql
+\i C:/Users/nevzorov/Desktop/Ayupov/Database/CodeSchemes/exams.sql

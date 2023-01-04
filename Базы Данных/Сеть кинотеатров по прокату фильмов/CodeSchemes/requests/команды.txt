@@ -1,0 +1,1 @@
+\i C:/Users/nevzorov/Desktop/Panfilov/Database/CodeSchemes/requests/1.sql

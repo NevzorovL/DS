@@ -1,0 +1,5 @@
+DROP TABLE workstations;
+DROP TABLE softwares;
+DROP TABLE operators;
+DROP TABLE servers;
+DROP TABLE organizations;

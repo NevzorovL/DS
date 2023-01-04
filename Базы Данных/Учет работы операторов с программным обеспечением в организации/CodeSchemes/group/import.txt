@@ -1,0 +1,5 @@
+\i C:/Users/nevzorov/Desktop/Umarov/Database/CodeSchemes/organizations.sql
+\i C:/Users/nevzorov/Desktop/Umarov/Database/CodeSchemes/servers.sql
+\i C:/Users/nevzorov/Desktop/Umarov/Database/CodeSchemes/operators.sql
+\i C:/Users/nevzorov/Desktop/Umarov/Database/CodeSchemes/softwares.sql
+\i C:/Users/nevzorov/Desktop/Umarov/Database/CodeSchemes/workstations.sql
